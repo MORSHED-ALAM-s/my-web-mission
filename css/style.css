@@ -2,3 +2,20 @@
     text-align: center;
     color: blueviolet;
 }
+p{
+    color: darkcyan;
+
+}
+
+*{
+    margin: 10px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   
+}
+.div-size{
+    height: 400px;
+    width: 25%auto;
+}
